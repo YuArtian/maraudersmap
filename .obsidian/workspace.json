@@ -165,8 +165,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96838877e6c9271e",
+  "active": "38919b90d7b859ff",
   "lastOpenFiles": [
+    "README.md",
     "Marauder'sMap/Library/包管理器/Npm/npm i & npm ci.md",
     "semver 版本控制.md",
     "Marauder'sMap/Library/包管理器/Npm/package-lock.md",
