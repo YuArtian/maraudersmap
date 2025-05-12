@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "bb0744f5440dee54",
+    "id": "9945989038092e47",
     "type": "split",
     "children": [
       {
-        "id": "9b5e4c0d259de338",
+        "id": "61aef2e24bdea025",
         "type": "tabs",
         "children": [
           {
-            "id": "96838877e6c9271e",
+            "id": "a2eba5333b930243",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marauder'sMap/Journal/2025-05-12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-12"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "488022e021d1be80",
+    "id": "0fa638792bf0bf28",
     "type": "split",
     "children": [
       {
-        "id": "fa787d3481415dcc",
+        "id": "36d040d806dae963",
         "type": "tabs",
         "children": [
           {
-            "id": "38919b90d7b859ff",
+            "id": "937064f56ea8dec5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "6a2a7dff17b03500",
+            "id": "e98739522bc280ad",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "cef889f1d9f4a17e",
+            "id": "69308de67a3d1fb6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "7ad6f7913dc2a6bb",
+    "id": "60ba64b5a82f4064",
     "type": "split",
     "children": [
       {
-        "id": "fb09dc8b17b66883",
+        "id": "644dcb11f2351de1",
         "type": "tabs",
         "children": [
           {
-            "id": "8539b6a4de204d6d",
+            "id": "de52b0350b019f67",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "6626bb3547398480",
+            "id": "bacbf31eeee0de96",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "5ed6779110228523",
+            "id": "266dc587a84b081b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "1f0da6f7d2d3abed",
+            "id": "a98b0f7a13e1da67",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -148,7 +144,8 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,23 +162,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "38919b90d7b859ff",
+  "active": "937064f56ea8dec5",
   "lastOpenFiles": [
     "README.md",
-    "Marauder'sMap/Library/包管理器/Npm/npm i & npm ci.md",
-    "semver 版本控制.md",
     "Marauder'sMap/Library/包管理器/Npm/package-lock.md",
-    "Marauder'sMap/Library/包管理器/语义版本控制 SemVer.md",
-    "Marauder'sMap/Journal/2025-05-12.md",
-    "Marauder'sMap/Index.canvas",
+    "Marauder'sMap/Library/包管理器/Npm/npm i & npm ci.md",
     "Marauder'sMap/Library/包管理器/lock 文件.md",
-    "Marauder'sMap/Journal/5-12/index.md",
     "Marauder'sMap/Library/包管理器/Npm",
+    "Marauder'sMap/Library/包管理器/语义版本控制 SemVer.md",
     "Marauder'sMap/Library/包管理器",
+    "Marauder'sMap/Journal/2025-05-12.md",
     "Marauder'sMap/Library",
-    "Marauder'sMap/Index.md",
-    "Marauder'sMap/Journal/5-12",
     "Marauder'sMap/Journal",
-    "Marauder'sMap"
+    "Marauder'sMap/Index.canvas",
+    "Marauder'sMap/Index.md",
+    "Marauder'sMap",
+    "maraudersmap/README.md",
+    "maraudersmap/Marauder'sMap/Library/包管理器/Npm/package-lock.md",
+    "maraudersmap/Marauder'sMap/Library/包管理器/Npm/npm i & npm ci.md",
+    "maraudersmap/Marauder'sMap/Library/包管理器/语义版本控制 SemVer.md",
+    "maraudersmap/Marauder'sMap/Library/包管理器/lock 文件.md",
+    "maraudersmap/Marauder'sMap/Library/包管理器/Npm",
+    "maraudersmap/Marauder'sMap/Library/包管理器",
+    "maraudersmap/Marauder'sMap/Journal/2025-05-12.md",
+    "maraudersmap/Marauder'sMap/Library",
+    "maraudersmap/Marauder'sMap/Journal",
+    "maraudersmap/Marauder'sMap/Index.md",
+    "maraudersmap/Marauder'sMap/Index.canvas",
+    "maraudersmap/Marauder'sMap",
+    "test/pnpm和Turborepo.md",
+    "test/Pasted image 20240816151909.png",
+    "test/2024-08-16.md",
+    "Pasted image 20250214151104.png",
+    "img-0.md",
+    "Lib/工程化.canvas",
+    "test/test.canvas",
+    "test/Pasted image 20240816151925.png",
+    "simpread-Docker Training Course for the Absolute Beginner  KodeKloud.md",
+    "未命名 1.canvas"
   ]
 }
