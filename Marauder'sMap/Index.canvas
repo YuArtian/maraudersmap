@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"b29c310142a222c3","x":-660,"y":-450,"width":140,"height":50,"type":"text","text":"包管理器"},
-		{"id":"82555e3e132197b9","x":-440,"y":-400,"width":250,"height":60,"type":"text","text":"NPM"},
-		{"id":"113a23a1f105ba06","x":-80,"y":-340,"width":400,"height":400,"type":"file","file":"Marauder'sMap/Library/包管理器/Npm/npm i & npm ci.md"}
+		{"id":"b29c310142a222c3","type":"text","text":"包管理器","x":-660,"y":-450,"width":140,"height":50},
+		{"id":"82555e3e132197b9","type":"text","text":"NPM","x":-440,"y":-400,"width":250,"height":60},
+		{"id":"113a23a1f105ba06","type":"file","file":"Marauder'sMap/Library/Node包管理器/Npm/npm i & npm ci.md","x":-80,"y":-340,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"bc1f0d2ab459ce3f","fromNode":"b29c310142a222c3","fromSide":"bottom","toNode":"82555e3e132197b9","toSide":"top"},
