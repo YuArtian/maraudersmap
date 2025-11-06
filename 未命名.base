@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.basename
+      - file.folder
+      - file.size
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: DESC
