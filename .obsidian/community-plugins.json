@@ -5,8 +5,7 @@
   "tag-wrangler",
   "execute-code",
   "highlightr-plugin",
-  "simple-code-formatter",
-  "smart-connections",
   "waypoint",
-  "dashboard-navigator"
+  "dashboard-navigator",
+  "simple-code-formatter"
 ]
