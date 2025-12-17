@@ -52,5 +52,5 @@ return (
 只需要安装 `babel-plugin-react-compiler@latest`
 配合 `eslint` 插件 `eslint-plugin-react-hooks@latest` 能更好的检查语法
 
-> 注意 目前 compiler 还没有 swc 的版本，请注意使用 babel
+> <mark style="background: #FFB8EBA6;">注意 目前 compiler 还没有 swc 的版本，请注意使用 babel</mark>
 > 比如： vite 中应该使用 @vitejs/plugin-react ， 而不是 @vitejs/plugin-react-swc
