@@ -76,6 +76,42 @@ with open('bad.txt', 'r', encoding='gbk', errors='ignore') as f:
     content = f.read()
 ```
 
+### 文本模式 vs 二进制模式
+
+| 模式 | 返回类型 | 用途 |
+|------|---------|------|
+| `'r'` | `str`（已按编码解码） | 文本文件 |
+| `'rb'` | `bytes`（原始字节） | 图片、视频、二进制、pickle |
+
+```python
+# 文本模式 -- 自动解码
+with open('hello.txt', 'r', encoding='utf-8') as f:
+    f.read()   # '你好'（str）
+
+# 二进制模式 -- 原始字节
+with open('hello.txt', 'rb') as f:
+    f.read()   # b'\xe4\xbd\xa0\xe5\xa5\xbd'（bytes）
+```
+
+什么时候用 `'rb'` / `'wb'`：
+
+- 图片、视频、音频（本来就是二进制，没有"编码"概念）
+- `pickle` 序列化（存的是二进制）
+- 压缩文件（zip、gzip）
+- 要按字节精确处理的场景
+
+```python
+import pickle
+
+# 写二进制
+with open('dump.pkl', 'wb') as f:
+    pickle.dump({'name': 'Bob'}, f)
+
+# 读二进制
+with open('dump.pkl', 'rb') as f:
+    data = pickle.load(f)
+```
+
 ---
 
 ## 3. open() 不会开新线程/进程
