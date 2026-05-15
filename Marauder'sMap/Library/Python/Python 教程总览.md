@@ -140,6 +140,7 @@ CPython 解释器原理
 | 文章 | 主要内容 |
 |---|---|
 | [[网络编程]] | TCP/IP 基础、socket API、TCP 客户端/多线程服务器、UDP echo、send/recv 字节流陷阱、TIME_WAIT |
+| [[数据库访问]] | DB-API 标准、SQLite/MySQL/PostgreSQL、参数化查询防 SQL 注入、SQLAlchemy ORM、session_scope、连接池配置 |
 
 ---
 
@@ -195,7 +196,6 @@ CPython 解释器原理
 |---|---|---|
 | 16.13 | venv | 已被 [[环境管理]] 覆盖，跳过 |
 | 20 | 电子邮件（SMTP / POP3） |  |
-| 21 | 访问数据库（SQLite / MySQL / SQLAlchemy） |  |
 | 22 | Web 开发（HTTP / WSGI / Flask） |  |
 | 23 | 异步 IO（协程 / asyncio / aiohttp） |  |
 
