@@ -1,9 +1,97 @@
+#React #性能优化 #编译原理
 
-## 最简洁的回答
+# React Compiler 实现原理
 
-**React Compiler 是一个 Babel 插件，通过静态分析 JavaScript AST，识别组件和 Hooks 的依赖关系，自动在合适的位置插入 `useMemo`、`useCallback` 和 `memo` 等记忆化代码，从而在编译时实现自动性能优化。**
+## TL;DR
 
-核心流程：`源码 → AST 解析 → 依赖分析 → 插入记忆化代码 → 生成优化后的代码`
+**React Compiler 是 Babel 插件，构建时分析组件代码，把"避免重复计算/重复渲染"这件事编译成底层缓存槽代码——并不是真的插入 `useMemo`/`useCallback`/`memo`。**
+
+- 编译时介入，运行时只引入轻量缓存原语 `react/compiler-runtime`（`_c(n)`）
+- 编译产物是 **"缓存数组 + if 比较 + 命中复用"** 的展开形式，比 Hook API 更细粒度
+- 记忆化粒度可到 **属性级**（`user.first` 而不是粗糙的 `user`），并能缓存 **整段 JSX element**
+- 检测到违反 React Rules 的代码 → 整段 **bail out**（不编译，按原样运行）
+- "自动插入 useMemo" 是常见误解：那是**类比**，真实产物是更底层的槽位机制
+
+---
+
+## 1. 真实的编译产物（最重要的更正）
+
+很多文章会说"编译器自动插入 useMemo/useCallback/memo"——这是**类比**，不是真相。真实产物长这样：
+
+**源码：**
+
+```jsx
+function Profile({ user, tags }) {
+  const fullName = user.first + ' ' + user.last;
+  const sortedTags = tags.slice().sort();
+  return <Card name={fullName} tags={sortedTags} />;
+}
+```
+
+**编译后（简化但形态正确）：**
+
+```jsx
+import { c as _c } from 'react/compiler-runtime';
+
+function Profile({ user, tags }) {
+  const $ = _c(5);   // 申请一个长度为 5 的缓存数组，挂在 Fiber 上跨渲染保留
+
+  // 第一块：fullName 的缓存槽
+  let fullName;
+  if ($[0] !== user.first || $[1] !== user.last) {
+    fullName = user.first + ' ' + user.last;
+    $[0] = user.first;
+    $[1] = user.last;
+    $[2] = fullName;
+  } else {
+    fullName = $[2];
+  }
+
+  // 第二块：sortedTags 的缓存槽
+  let sortedTags;
+  if ($[3] !== tags) {
+    sortedTags = tags.slice().sort();
+    $[3] = tags;
+    $[4] = sortedTags;
+  } else {
+    sortedTags = $[4];
+  }
+
+  // 真实产物里 JSX element 本身也会有一个缓存块
+  return <Card name={fullName} tags={sortedTags} />;
+}
+```
+
+### 对应关系
+
+| 手写 Hook | 编译器版 |
+|---|---|
+| `useMemo` 的依赖数组 | 缓存数组里的依赖槽位 `$[0]`, `$[1]` |
+| `useMemo` 的缓存值 | 结果槽位 `$[2]` |
+| 依赖比较 + 重算逻辑 | `if ($[0] !== ...) { ... } else { ... }` |
+| `useCallback` | 同样的 if/else 形式（函数也是值） |
+| `React.memo` 的效果 | 缓存整个 JSX element 引用，父组件渲染时 element 引用相等 → reconciliation 直接跳过子组件 |
+
+### 为什么不直接生成 useMemo？
+
+| 原因 | 说明 |
+|---|---|
+| Hook 开销 | 每个 `useMemo` 要占一个 Hook 槽位、走一遍 dispatcher。20 个 scope 就是 20 次 |
+| 粒度受限 | `useMemo` 依赖数组定长；编译器要的是任意 slot 的扁平数组 |
+| 跨越 JSX | `useMemo` 不方便缓存"返回的 element"；`_c` 可以把整个 `<Card ... />` 缓存为一个槽 |
+| `React.memo` 是 HOC | 编译器要在组件**内部**做缓存，不改变外部形态 |
+
+所以编译器的"自动 memoization"是一个**绕过 Hook 抽象、更底层、更细粒度**的实现，而不是写更多 `useMemo`。
+
+---
+
+## 2. 整体流程
+
+核心流程：`源码 → AST → HIR → 反应式作用域分析 → 注入缓存槽 → 生成代码`
+
+---
+
+> 注意：下文章节里的"插入 useMemo / useCallback / memo"是**概念示意**，便于理解编译器在做什么。真实编译产物如上一节所示，是 `_c(n)` 缓存槽展开形式。
 
 ---
 
@@ -733,11 +821,11 @@ ESLint 插件会检查：
 
 React Compiler 的实现原理可以总结为：
 
-1. **静态分析**：通过 AST 分析识别组件结构和数据流
-2. **依赖追踪**：建立变量依赖图，追踪数据流动
-3. **优化决策**：基于成本模型判断何时需要记忆化
-4. **代码生成**：自动插入 `useMemo`/`useCallback`/`memo`
-5. **验证检查**：确保生成的代码符合 React 规则
+1. **静态分析**：通过 AST → HIR 分析识别组件结构和数据流
+2. **依赖追踪**：建立变量依赖图，划分反应式作用域（reactive scope）
+3. **优化决策**：基于成本模型判断何时值得记忆化
+4. **代码生成**：注入 `_c(n)` 缓存槽 + if 比较（**而不是真的插入 useMemo/useCallback/memo**）
+5. **验证检查**：检测违反 React Rules 的代码 → 整段 bail out 跳过编译
 
 **核心价值：**
 
@@ -750,9 +838,13 @@ React Compiler 代表了编译器技术在前端框架中的深度应用，通�
 
 ---
 
-## 参考资源
+## 相关文章
+
+- [[ReactCompiler|React Compiler 使用指南]]
+- [[ReactCompiler与useEffect依赖]] - 为什么 effect 依赖仍要手写 useMemo
+- [[Memoize|记忆化概念]]
+
+## 参考资料
 
 - [React Compiler 官方文档](https://react.dev/learn/react-compiler)
 - [React Compiler GitHub](https://github.com/facebook/react/tree/main/compiler)
-- [[ReactCompiler|React Compiler 使用指南]]
-- [[Memoize|记忆化概念]]

@@ -3,6 +3,11 @@
 > <https://react.dev/learn/react-compiler/introduction>
 > <https://zh-hans.react.dev/learn/react-compiler/introduction>
 
+## 相关文章
+
+- [[ReactCompiler实现原理]] - 真实编译产物（`_c(n)` 缓存槽），不是直接插入 useMemo
+- [[ReactCompiler与useEffect依赖]] - 为什么 effect 依赖项仍然要手写 useMemo
+
 # Memoize
 
 记忆化 [[Marauder'sMap/Wordbook/Memoize|Memoize]] 是 React 中重要的概念
