@@ -248,5 +248,5 @@ addon.fastAdd(1, 2)  // 调用的是 C++ 代码
 
 ## 相关概念
 
-- [[CPython 解释器原理]] - Python 解释器的字节码、GIL、C 扩展
+- [[5.15 CPython 解释器原理]] - Python 解释器的字节码、GIL、C 扩展
 - [[JS执行模型]] - JavaScript 代理、域、事件循环、调用栈

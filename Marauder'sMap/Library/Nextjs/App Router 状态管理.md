@@ -507,7 +507,7 @@ node_modules/next/dist/client/components/
 
 - [[软导航与RSC协议]] — RSC payload 是怎么产生和传输的
 - [[React 渲染机制]] — useReducer/Context 触发重渲染的底层机制
-- [[评测榜单系统设计]] — App Router 实战项目（hma-web）
+- [[评测榜单系统设计]] — App Router 实战项目（公司排行榜项目）
 
 ---
 

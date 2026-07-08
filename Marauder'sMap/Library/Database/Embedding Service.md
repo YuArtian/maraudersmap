@@ -2,7 +2,7 @@
 
 # Embedding Service（嵌入服务设计）
 
-> 参考 holywell 项目的 `utils_embedding.py` 设计模式
+> 参考公司后端项目的 `utils_embedding.py` 设计模式
 
 ## TL;DR
 
