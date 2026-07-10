@@ -1,0 +1,437 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="3657" viewBox="0 0 864 3657" font-family="PingFang SC, Hiragino Sans GB, sans-serif">
+<rect width="864" height="3657" fill="#FFFFFF"/>
+<path d="M 202.0 1863.4 C 225.0 1863.4, 225.0 278.5, 248.0 278.5" fill="none" stroke="#E8590C" stroke-width="2.6" stroke-linecap="round" opacity="0.9"/>
+<path d="M 374.0 278.5 C 392.0 278.5, 392.0 79.0, 410.0 79.0" fill="none" stroke="#E8590C" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 513.0 79.0 C 528.0 79.0, 528.0 48.0, 543.0 48.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 513.0 79.0 C 528.0 79.0, 528.0 79.0, 543.0 79.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 513.0 79.0 C 528.0 79.0, 528.0 110.0, 543.0 110.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 374.0 278.5 C 392.0 278.5, 392.0 212.0, 410.0 212.0" fill="none" stroke="#E8590C" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 486.0 212.0 C 501.0 212.0, 501.0 150.0, 516.0 150.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 486.0 212.0 C 501.0 212.0, 501.0 181.0, 516.0 181.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 486.0 212.0 C 501.0 212.0, 501.0 212.0, 516.0 212.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 486.0 212.0 C 501.0 212.0, 501.0 243.0, 516.0 243.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 486.0 212.0 C 501.0 212.0, 501.0 274.0, 516.0 274.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 374.0 278.5 C 392.0 278.5, 392.0 376.0, 410.0 376.0" fill="none" stroke="#E8590C" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 513.0 376.0 C 528.0 376.0, 528.0 314.0, 543.0 314.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 513.0 376.0 C 528.0 376.0, 528.0 345.0, 543.0 345.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 513.0 376.0 C 528.0 376.0, 528.0 376.0, 543.0 376.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 513.0 376.0 C 528.0 376.0, 528.0 407.0, 543.0 407.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 513.0 376.0 C 528.0 376.0, 528.0 438.0, 543.0 438.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 374.0 278.5 C 392.0 278.5, 392.0 478.0, 410.0 478.0" fill="none" stroke="#E8590C" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 472.0 478.0 C 487.0 478.0, 487.0 478.0, 502.0 478.0" fill="none" stroke="#E8590C" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 202.0 1863.4 C 225.0 1863.4, 225.0 846.2, 248.0 846.2" fill="none" stroke="#1971C2" stroke-width="2.6" stroke-linecap="round" opacity="0.9"/>
+<path d="M 414.0 846.2 C 432.0 846.2, 432.0 583.5, 450.0 583.5" fill="none" stroke="#1971C2" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 521.0 583.5 C 536.0 583.5, 536.0 537.0, 551.0 537.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 521.0 583.5 C 536.0 583.5, 536.0 568.0, 551.0 568.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 521.0 583.5 C 536.0 583.5, 536.0 599.0, 551.0 599.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 521.0 583.5 C 536.0 583.5, 536.0 630.0, 551.0 630.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 414.0 846.2 C 432.0 846.2, 432.0 732.0, 450.0 732.0" fill="none" stroke="#1971C2" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 529.0 732.0 C 544.0 732.0, 544.0 670.0, 559.0 670.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 529.0 732.0 C 544.0 732.0, 544.0 701.0, 559.0 701.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 529.0 732.0 C 544.0 732.0, 544.0 732.0, 559.0 732.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 529.0 732.0 C 544.0 732.0, 544.0 763.0, 559.0 763.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 529.0 732.0 C 544.0 732.0, 544.0 794.0, 559.0 794.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 414.0 846.2 C 432.0 846.2, 432.0 880.5, 450.0 880.5" fill="none" stroke="#1971C2" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 561.0 880.5 C 576.0 880.5, 576.0 834.0, 591.0 834.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 561.0 880.5 C 576.0 880.5, 576.0 865.0, 591.0 865.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 561.0 880.5 C 576.0 880.5, 576.0 896.0, 591.0 896.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 561.0 880.5 C 576.0 880.5, 576.0 927.0, 591.0 927.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 414.0 846.2 C 432.0 846.2, 432.0 967.0, 450.0 967.0" fill="none" stroke="#1971C2" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 488.0 967.0 C 503.0 967.0, 503.0 967.0, 518.0 967.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 414.0 846.2 C 432.0 846.2, 432.0 1038.0, 450.0 1038.0" fill="none" stroke="#1971C2" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 521.0 1038.0 C 536.0 1038.0, 536.0 1007.0, 551.0 1007.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 521.0 1038.0 C 536.0 1038.0, 536.0 1038.0, 551.0 1038.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 521.0 1038.0 C 536.0 1038.0, 536.0 1069.0, 551.0 1069.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 414.0 846.2 C 432.0 846.2, 432.0 1109.0, 450.0 1109.0" fill="none" stroke="#1971C2" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 526.0 1109.0 C 541.0 1109.0, 541.0 1109.0, 556.0 1109.0" fill="none" stroke="#1971C2" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 202.0 1863.4 C 225.0 1863.4, 225.0 1414.0, 248.0 1414.0" fill="none" stroke="#2F9E44" stroke-width="2.6" stroke-linecap="round" opacity="0.9"/>
+<path d="M 377.0 1414.0 C 395.0 1414.0, 395.0 1230.0, 413.0 1230.0" fill="none" stroke="#2F9E44" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 494.0 1230.0 C 509.0 1230.0, 509.0 1168.0, 524.0 1168.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 494.0 1230.0 C 509.0 1230.0, 509.0 1199.0, 524.0 1199.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 494.0 1230.0 C 509.0 1230.0, 509.0 1230.0, 524.0 1230.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 494.0 1230.0 C 509.0 1230.0, 509.0 1261.0, 524.0 1261.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 494.0 1230.0 C 509.0 1230.0, 509.0 1292.0, 524.0 1292.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 377.0 1414.0 C 395.0 1414.0, 395.0 1378.5, 413.0 1378.5" fill="none" stroke="#2F9E44" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 519.0 1378.5 C 534.0 1378.5, 534.0 1332.0, 549.0 1332.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 519.0 1378.5 C 534.0 1378.5, 534.0 1363.0, 549.0 1363.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 519.0 1378.5 C 534.0 1378.5, 534.0 1394.0, 549.0 1394.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 519.0 1378.5 C 534.0 1378.5, 534.0 1425.0, 549.0 1425.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 377.0 1414.0 C 395.0 1414.0, 395.0 1496.0, 413.0 1496.0" fill="none" stroke="#2F9E44" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 573.0 1496.0 C 588.0 1496.0, 588.0 1465.0, 603.0 1465.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 573.0 1496.0 C 588.0 1496.0, 588.0 1496.0, 603.0 1496.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 573.0 1496.0 C 588.0 1496.0, 588.0 1527.0, 603.0 1527.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 377.0 1414.0 C 395.0 1414.0, 395.0 1598.0, 413.0 1598.0" fill="none" stroke="#2F9E44" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 538.0 1598.0 C 553.0 1598.0, 553.0 1567.0, 568.0 1567.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 538.0 1598.0 C 553.0 1598.0, 553.0 1598.0, 568.0 1598.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 538.0 1598.0 C 553.0 1598.0, 553.0 1629.0, 568.0 1629.0" fill="none" stroke="#2F9E44" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 202.0 1863.4 C 225.0 1863.4, 225.0 1914.0, 248.0 1914.0" fill="none" stroke="#9C36B5" stroke-width="2.6" stroke-linecap="round" opacity="0.9"/>
+<path d="M 377.0 1914.0 C 395.0 1914.0, 395.0 1765.5, 413.0 1765.5" fill="none" stroke="#9C36B5" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 492.0 1765.5 C 507.0 1765.5, 507.0 1688.0, 522.0 1688.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 492.0 1765.5 C 507.0 1765.5, 507.0 1719.0, 522.0 1719.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 492.0 1765.5 C 507.0 1765.5, 507.0 1750.0, 522.0 1750.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 492.0 1765.5 C 507.0 1765.5, 507.0 1781.0, 522.0 1781.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 492.0 1765.5 C 507.0 1765.5, 507.0 1812.0, 522.0 1812.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 492.0 1765.5 C 507.0 1765.5, 507.0 1843.0, 522.0 1843.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 377.0 1914.0 C 395.0 1914.0, 395.0 1945.0, 413.0 1945.0" fill="none" stroke="#9C36B5" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 475.0 1945.0 C 490.0 1945.0, 490.0 1883.0, 505.0 1883.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 475.0 1945.0 C 490.0 1945.0, 490.0 1914.0, 505.0 1914.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 475.0 1945.0 C 490.0 1945.0, 490.0 1945.0, 505.0 1945.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 475.0 1945.0 C 490.0 1945.0, 490.0 1976.0, 505.0 1976.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 475.0 1945.0 C 490.0 1945.0, 490.0 2007.0, 505.0 2007.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 377.0 1914.0 C 395.0 1914.0, 395.0 2062.5, 413.0 2062.5" fill="none" stroke="#9C36B5" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 503.0 2062.5 C 518.0 2062.5, 518.0 2047.0, 533.0 2047.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 503.0 2062.5 C 518.0 2062.5, 518.0 2078.0, 533.0 2078.0" fill="none" stroke="#9C36B5" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 202.0 1863.4 C 225.0 1863.4, 225.0 2356.5, 248.0 2356.5" fill="none" stroke="#E03131" stroke-width="2.6" stroke-linecap="round" opacity="0.9"/>
+<path d="M 411.0 2356.5 C 429.0 2356.5, 429.0 2168.0, 447.0 2168.0" fill="none" stroke="#E03131" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 566.0 2168.0 C 581.0 2168.0, 581.0 2137.0, 596.0 2137.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 566.0 2168.0 C 581.0 2168.0, 581.0 2168.0, 596.0 2168.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 566.0 2168.0 C 581.0 2168.0, 581.0 2199.0, 596.0 2199.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 411.0 2356.5 C 429.0 2356.5, 429.0 2270.0, 447.0 2270.0" fill="none" stroke="#E03131" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 528.0 2270.0 C 543.0 2270.0, 543.0 2239.0, 558.0 2239.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 528.0 2270.0 C 543.0 2270.0, 543.0 2270.0, 558.0 2270.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 528.0 2270.0 C 543.0 2270.0, 543.0 2301.0, 558.0 2301.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 411.0 2356.5 C 429.0 2356.5, 429.0 2356.5, 447.0 2356.5" fill="none" stroke="#E03131" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 542.0 2356.5 C 557.0 2356.5, 557.0 2341.0, 572.0 2341.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 542.0 2356.5 C 557.0 2356.5, 557.0 2372.0, 572.0 2372.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 411.0 2356.5 C 429.0 2356.5, 429.0 2458.5, 447.0 2458.5" fill="none" stroke="#E03131" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 545.0 2458.5 C 560.0 2458.5, 560.0 2412.0, 575.0 2412.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 545.0 2458.5 C 560.0 2458.5, 560.0 2443.0, 575.0 2443.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 545.0 2458.5 C 560.0 2458.5, 560.0 2474.0, 575.0 2474.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 545.0 2458.5 C 560.0 2458.5, 560.0 2505.0, 575.0 2505.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 411.0 2356.5 C 429.0 2356.5, 429.0 2545.0, 447.0 2545.0" fill="none" stroke="#E03131" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 523.0 2545.0 C 538.0 2545.0, 538.0 2545.0, 553.0 2545.0" fill="none" stroke="#E03131" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 202.0 1863.4 C 225.0 1863.4, 225.0 2749.2, 248.0 2749.2" fill="none" stroke="#0C8599" stroke-width="2.6" stroke-linecap="round" opacity="0.9"/>
+<path d="M 393.0 2749.2 C 411.0 2749.2, 411.0 2619.5, 429.0 2619.5" fill="none" stroke="#0C8599" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 524.0 2619.5 C 539.0 2619.5, 539.0 2604.0, 554.0 2604.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 524.0 2619.5 C 539.0 2619.5, 539.0 2635.0, 554.0 2635.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 393.0 2749.2 C 411.0 2749.2, 411.0 2690.5, 429.0 2690.5" fill="none" stroke="#0C8599" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 505.0 2690.5 C 520.0 2690.5, 520.0 2675.0, 535.0 2675.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 505.0 2690.5 C 520.0 2690.5, 520.0 2706.0, 535.0 2706.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 393.0 2749.2 C 411.0 2749.2, 411.0 2792.5, 429.0 2792.5" fill="none" stroke="#0C8599" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 505.0 2792.5 C 520.0 2792.5, 520.0 2746.0, 535.0 2746.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 505.0 2792.5 C 520.0 2792.5, 520.0 2777.0, 535.0 2777.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 505.0 2792.5 C 520.0 2792.5, 520.0 2808.0, 535.0 2808.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 505.0 2792.5 C 520.0 2792.5, 520.0 2839.0, 535.0 2839.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 393.0 2749.2 C 411.0 2749.2, 411.0 2879.0, 429.0 2879.0" fill="none" stroke="#0C8599" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 505.0 2879.0 C 520.0 2879.0, 520.0 2879.0, 535.0 2879.0" fill="none" stroke="#0C8599" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 202.0 1863.4 C 225.0 1863.4, 225.0 3091.0, 248.0 3091.0" fill="none" stroke="#D9480F" stroke-width="2.6" stroke-linecap="round" opacity="0.9"/>
+<path d="M 368.0 3091.0 C 386.0 3091.0, 386.0 2969.0, 404.0 2969.0" fill="none" stroke="#D9480F" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 523.0 2969.0 C 538.0 2969.0, 538.0 2938.0, 553.0 2938.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 523.0 2969.0 C 538.0 2969.0, 538.0 2969.0, 553.0 2969.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 523.0 2969.0 C 538.0 2969.0, 538.0 3000.0, 553.0 3000.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 368.0 3091.0 C 386.0 3091.0, 386.0 3071.0, 404.0 3071.0" fill="none" stroke="#D9480F" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 480.0 3071.0 C 495.0 3071.0, 495.0 3040.0, 510.0 3040.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 480.0 3071.0 C 495.0 3071.0, 495.0 3071.0, 510.0 3071.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 480.0 3071.0 C 495.0 3071.0, 495.0 3102.0, 510.0 3102.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 368.0 3091.0 C 386.0 3091.0, 386.0 3142.0, 404.0 3142.0" fill="none" stroke="#D9480F" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 523.0 3142.0 C 538.0 3142.0, 538.0 3142.0, 553.0 3142.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 368.0 3091.0 C 386.0 3091.0, 386.0 3213.0, 404.0 3213.0" fill="none" stroke="#D9480F" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 480.0 3213.0 C 495.0 3213.0, 495.0 3182.0, 510.0 3182.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 480.0 3213.0 C 495.0 3213.0, 495.0 3213.0, 510.0 3213.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 480.0 3213.0 C 495.0 3213.0, 495.0 3244.0, 510.0 3244.0" fill="none" stroke="#D9480F" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 202.0 1863.4 C 225.0 1863.4, 225.0 3448.2, 248.0 3448.2" fill="none" stroke="#5F3DC4" stroke-width="2.6" stroke-linecap="round" opacity="0.9"/>
+<path d="M 340.0 3448.2 C 358.0 3448.2, 358.0 3318.5, 376.0 3318.5" fill="none" stroke="#5F3DC4" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 466.0 3318.5 C 481.0 3318.5, 481.0 3303.0, 496.0 3303.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 466.0 3318.5 C 481.0 3318.5, 481.0 3334.0, 496.0 3334.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 340.0 3448.2 C 358.0 3448.2, 358.0 3405.0, 376.0 3405.0" fill="none" stroke="#5F3DC4" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 452.0 3405.0 C 467.0 3405.0, 467.0 3374.0, 482.0 3374.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 452.0 3405.0 C 467.0 3405.0, 467.0 3405.0, 482.0 3405.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 452.0 3405.0 C 467.0 3405.0, 467.0 3436.0, 482.0 3436.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 340.0 3448.2 C 358.0 3448.2, 358.0 3491.5, 376.0 3491.5" fill="none" stroke="#5F3DC4" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 425.0 3491.5 C 440.0 3491.5, 440.0 3476.0, 455.0 3476.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 425.0 3491.5 C 440.0 3491.5, 440.0 3507.0, 455.0 3507.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 340.0 3448.2 C 358.0 3448.2, 358.0 3578.0, 376.0 3578.0" fill="none" stroke="#5F3DC4" stroke-width="2.0" stroke-linecap="round" opacity="0.9"/>
+<path d="M 476.0 3578.0 C 491.0 3578.0, 491.0 3547.0, 506.0 3547.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 476.0 3578.0 C 491.0 3578.0, 491.0 3578.0, 506.0 3578.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<path d="M 476.0 3578.0 C 491.0 3578.0, 491.0 3609.0, 506.0 3609.0" fill="none" stroke="#5F3DC4" stroke-width="1.4" stroke-linecap="round" opacity="0.9"/>
+<rect x="36" y="1833.4" rx="14" width="166" height="60" fill="#1F2A44"/>
+<text x="58" y="1870.9" font-size="21" font-weight="700" fill="#FFF">AI 应用开发</text>
+<rect x="248" y="259.5" rx="10" width="126" height="38" fill="#E8590C"/>
+<text x="263" y="284.1" font-size="15.5" font-weight="600" fill="#FFF">Python 语言</text>
+<rect x="410" y="65.0" rx="8" width="103" height="28" fill="#FFF0E6" stroke="#E8590C" stroke-width="1.4"/>
+<text x="421" y="83.9" font-size="13.5" font-weight="600" fill="#E8590C">环境与工具链</text>
+<rect x="543" y="36.0" rx="6" width="162" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="553" y="52.5" font-size="12.5" fill="#24292F">CPython 字节码 · GIL</text>
+<rect x="543" y="67.0" rx="6" width="202" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="553" y="83.5" font-size="12.5" fill="#24292F">虚拟环境 = 文件夹 + 改 PATH</text>
+<rect x="543" y="98.0" rx="6" width="145" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="553" y="114.5" font-size="12.5" fill="#24292F">uv 与 conda 的取舍</text>
+<rect x="410" y="198.0" rx="8" width="76" height="28" fill="#FFF0E6" stroke="#E8590C" stroke-width="1.4"/>
+<text x="421" y="216.9" font-size="13.5" font-weight="600" fill="#E8590C">语言核心</text>
+<rect x="516" y="138.0" rx="6" width="168" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="526" y="154.5" font-size="12.5" fill="#24292F">数据模型：可变性 · 哈希</text>
+<rect x="516" y="169.0" rx="6" width="192" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="526" y="185.5" font-size="12.5" fill="#24292F">LEGB 作用域 · 无块级作用域</text>
+<rect x="516" y="200.0" rx="6" width="162" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="526" y="216.5" font-size="12.5" fill="#24292F">推导式 · 生成器 yield</text>
+<rect x="516" y="231.0" rx="6" width="202" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="526" y="247.5" font-size="12.5" fill="#24292F">函数参数 · 闭包 · 默认参数坑</text>
+<rect x="516" y="262.0" rx="6" width="170" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="526" y="278.5" font-size="12.5" fill="#24292F">import 机制 · 循环导入</text>
+<rect x="410" y="362.0" rx="8" width="103" height="28" fill="#FFF0E6" stroke="#E8590C" stroke-width="1.4"/>
+<text x="421" y="380.9" font-size="13.5" font-weight="600" fill="#E8590C">特有心智模型</text>
+<rect x="543" y="302.0" rx="6" width="192" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="553" y="318.5" font-size="12.5" fill="#24292F">装饰器 · functools.wraps</text>
+<rect x="543" y="333.0" rx="6" width="145" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="553" y="349.5" font-size="12.5" fill="#24292F">with 上下文管理协议</text>
+<rect x="543" y="364.0" rx="6" width="168" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="553" y="380.5" font-size="12.5" fill="#24292F">OOP：MRO · @property</text>
+<rect x="543" y="395.0" rx="6" width="212" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="553" y="411.5" font-size="12.5" fill="#24292F">dunder 协议：__getitem__ 等</text>
+<rect x="543" y="426.0" rx="6" width="155" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="553" y="442.5" font-size="12.5" fill="#24292F">EAFP 异常哲学 · 反射</text>
+<rect x="410" y="464.0" rx="8" width="62" height="28" fill="#FFF0E6" stroke="#E8590C" stroke-width="1.4"/>
+<text x="421" y="482.9" font-size="13.5" font-weight="600" fill="#E8590C">工具箱</text>
+<rect x="502" y="466.0" rx="6" width="312" height="24" fill="#FFFFFF" stroke="#E8590C" stroke-width="1" stroke-opacity="0.45"/>
+<text x="512" y="482.5" font-size="12.5" fill="#24292F">re · datetime · collections · itertools</text>
+<rect x="248" y="827.2" rx="10" width="166" height="38" fill="#1971C2"/>
+<text x="263" y="851.8" font-size="15.5" font-weight="600" fill="#FFF">现代 Python 工程</text>
+<rect x="450" y="569.5" rx="8" width="71" height="28" fill="#E7F1FB" stroke="#1971C2" stroke-width="1.4"/>
+<text x="461" y="588.4" font-size="13.5" font-weight="600" fill="#1971C2">typing</text>
+<rect x="551" y="525.0" rx="6" width="210" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="561" y="541.5" font-size="12.5" fill="#24292F">泛型 · TypeVar · ParamSpec</text>
+<rect x="551" y="556.0" rx="6" width="260" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="561" y="572.5" font-size="12.5" fill="#24292F">Protocol · TypedDict · Annotated</text>
+<rect x="551" y="587.0" rx="6" width="202" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="561" y="603.5" font-size="12.5" fill="#24292F">TypeGuard 收窄 · overload</text>
+<rect x="551" y="618.0" rx="6" width="178" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="561" y="634.5" font-size="12.5" fill="#24292F">mypy strict / pyright</text>
+<rect x="450" y="718.0" rx="8" width="79" height="28" fill="#E7F1FB" stroke="#1971C2" stroke-width="1.4"/>
+<text x="461" y="736.9" font-size="13.5" font-weight="600" fill="#1971C2">asyncio</text>
+<rect x="559" y="658.0" rx="6" width="202" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="569" y="674.5" font-size="12.5" fill="#24292F">事件循环：await 是唯一让出点</text>
+<rect x="559" y="689.0" rx="6" width="215" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="569" y="705.5" font-size="12.5" fill="#24292F">TaskGroup · ExceptionGroup</text>
+<rect x="559" y="720.0" rx="6" width="138" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="569" y="736.5" font-size="12.5" fill="#24292F">取消语义 · shield</text>
+<rect x="559" y="751.0" rx="6" width="180" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="569" y="767.5" font-size="12.5" fill="#24292F">Semaphore 限流 · Queue</text>
+<rect x="559" y="782.0" rx="6" width="192" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="569" y="798.5" font-size="12.5" fill="#24292F">to_thread 互操作 · httpx</text>
+<rect x="450" y="866.5" rx="8" width="111" height="28" fill="#E7F1FB" stroke="#1971C2" stroke-width="1.4"/>
+<text x="461" y="885.4" font-size="13.5" font-weight="600" fill="#1971C2">Pydantic v2</text>
+<rect x="591" y="822.0" rx="6" width="205" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="601" y="838.5" font-size="12.5" fill="#24292F">Field · validator 三挂载点</text>
+<rect x="591" y="853.0" rx="6" width="195" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="601" y="869.5" font-size="12.5" fill="#24292F">Discriminated Union 分派</text>
+<rect x="591" y="884.0" rx="6" width="208" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="601" y="900.5" font-size="12.5" fill="#24292F">TypeAdapter · JSON Schema</text>
+<rect x="591" y="915.0" rx="6" width="148" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="601" y="931.5" font-size="12.5" fill="#24292F">pydantic-settings</text>
+<rect x="450" y="953.0" rx="8" width="38" height="28" fill="#E7F1FB" stroke="#1971C2" stroke-width="1.4"/>
+<text x="461" y="971.9" font-size="13.5" font-weight="600" fill="#1971C2">uv</text>
+<rect x="518" y="955.0" rx="6" width="208" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="528" y="971.5" font-size="12.5" fill="#24292F">workspace · uvx · uv.lock</text>
+<rect x="450" y="1024.0" rx="8" width="71" height="28" fill="#E7F1FB" stroke="#1971C2" stroke-width="1.4"/>
+<text x="461" y="1042.9" font-size="13.5" font-weight="600" fill="#1971C2">pytest</text>
+<rect x="551" y="995.0" rx="6" width="232" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="561" y="1011.5" font-size="12.5" fill="#24292F">fixture scope · conftest 分层</text>
+<rect x="551" y="1026.0" rx="6" width="215" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="561" y="1042.5" font-size="12.5" fill="#24292F">AsyncMock · respx mock LLM</text>
+<rect x="551" y="1057.0" rx="6" width="118" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="561" y="1073.5" font-size="12.5" fill="#24292F">参数化 · 覆盖率</text>
+<rect x="450" y="1095.0" rx="8" width="76" height="28" fill="#E7F1FB" stroke="#1971C2" stroke-width="1.4"/>
+<text x="461" y="1113.9" font-size="13.5" font-weight="600" fill="#1971C2">代码质量</text>
+<rect x="556" y="1097.0" rx="6" width="225" height="24" fill="#FFFFFF" stroke="#1971C2" stroke-width="1" stroke-opacity="0.45"/>
+<text x="566" y="1113.5" font-size="12.5" fill="#24292F">ruff · pre-commit · src 布局</text>
+<rect x="248" y="1395.0" rx="10" width="129" height="38" fill="#2F9E44"/>
+<text x="263" y="1419.6" font-size="15.5" font-weight="600" fill="#FFF">LLM 应用基础</text>
+<rect x="413" y="1216.0" rx="8" width="81" height="28" fill="#E9F7EC" stroke="#2F9E44" stroke-width="1.4"/>
+<text x="424" y="1234.9" font-size="13.5" font-weight="600" fill="#2F9E44">API 调用</text>
+<rect x="524" y="1156.0" rx="6" width="215" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="534" y="1172.5" font-size="12.5" fill="#24292F">messages 四角色 · API 无状态</text>
+<rect x="524" y="1187.0" rx="6" width="168" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="534" y="1203.5" font-size="12.5" fill="#24292F">采样参数 · seed 可复现</text>
+<rect x="524" y="1218.0" rx="6" width="128" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="534" y="1234.5" font-size="12.5" fill="#24292F">SSE 流式 · TTFT</text>
+<rect x="524" y="1249.0" rx="6" width="172" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="534" y="1265.5" font-size="12.5" fill="#24292F">429 退避重试 · 分层超时</text>
+<rect x="524" y="1280.0" rx="6" width="192" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="534" y="1296.5" font-size="12.5" fill="#24292F">多 Provider 差异 · 多模态</text>
+<rect x="413" y="1364.5" rx="8" width="106" height="28" fill="#E9F7EC" stroke="#2F9E44" stroke-width="1.4"/>
+<text x="424" y="1383.4" font-size="13.5" font-weight="600" fill="#2F9E44">Prompt 工程</text>
+<rect x="549" y="1320.0" rx="6" width="212" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="559" y="1336.5" font-size="12.5" fill="#24292F">结构：角色 · 约束 · few-shot</text>
+<rect x="549" y="1351.0" rx="6" width="162" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="559" y="1367.5" font-size="12.5" fill="#24292F">CoT · 分步 · 标签分隔</text>
+<rect x="549" y="1382.0" rx="6" width="158" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="559" y="1398.5" font-size="12.5" fill="#24292F">防注入：指令与输入隔离</text>
+<rect x="549" y="1413.0" rx="6" width="155" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="559" y="1429.5" font-size="12.5" fill="#24292F">模板版本化 · 回归对比</text>
+<rect x="413" y="1482.0" rx="8" width="160" height="28" fill="#E9F7EC" stroke="#2F9E44" stroke-width="1.4"/>
+<text x="424" y="1500.9" font-size="13.5" font-weight="600" fill="#2F9E44">Structured Output</text>
+<rect x="603" y="1453.0" rx="6" width="225" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="613" y="1469.5" font-size="12.5" fill="#24292F">JSON mode / json_schema 取舍</text>
+<rect x="603" y="1484.0" rx="6" width="138" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="613" y="1500.5" font-size="12.5" fill="#24292F">Pydantic 校验闭环</text>
+<rect x="603" y="1515.0" rx="6" width="190" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="613" y="1531.5" font-size="12.5" fill="#24292F">ValidationError 喂回自纠</text>
+<rect x="413" y="1584.0" rx="8" width="125" height="28" fill="#E9F7EC" stroke="#2F9E44" stroke-width="1.4"/>
+<text x="424" y="1602.9" font-size="13.5" font-weight="600" fill="#2F9E44">Token 与上下文</text>
+<rect x="568" y="1555.0" rx="6" width="158" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="578" y="1571.5" font-size="12.5" fill="#24292F">BPE · tiktoken 计数</text>
+<rect x="568" y="1586.0" rx="6" width="190" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="578" y="1602.5" font-size="12.5" fill="#24292F">截断 · 滑动窗口 · 摘要压缩</text>
+<rect x="568" y="1617.0" rx="6" width="198" height="24" fill="#FFFFFF" stroke="#2F9E44" stroke-width="1" stroke-opacity="0.45"/>
+<text x="578" y="1633.5" font-size="12.5" fill="#24292F">prompt caching · 成本工程</text>
+<rect x="248" y="1895.0" rx="10" width="129" height="38" fill="#9C36B5"/>
+<text x="263" y="1919.6" font-size="15.5" font-weight="600" fill="#FFF">Web 服务开发</text>
+<rect x="413" y="1751.5" rx="8" width="79" height="28" fill="#F6ECFA" stroke="#9C36B5" stroke-width="1.4"/>
+<text x="424" y="1770.4" font-size="13.5" font-weight="600" fill="#9C36B5">FastAPI</text>
+<rect x="522" y="1676.0" rx="6" width="208" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="532" y="1692.5" font-size="12.5" fill="#24292F">路由 · APIRouter · 响应模型</text>
+<rect x="522" y="1707.0" rx="6" width="190" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="532" y="1723.5" font-size="12.5" fill="#24292F">Depends · yield 依赖清理</text>
+<rect x="522" y="1738.0" rx="6" width="155" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="532" y="1754.5" font-size="12.5" fill="#24292F">中间件 · 全局异常处理</text>
+<rect x="522" y="1769.0" rx="6" width="225" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="532" y="1785.5" font-size="12.5" fill="#24292F">SSE StreamingResponse · 断连</text>
+<rect x="522" y="1800.0" rx="6" width="138" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="532" y="1816.5" font-size="12.5" fill="#24292F">lifespan 生命周期</text>
+<rect x="522" y="1831.0" rx="6" width="192" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="532" y="1847.5" font-size="12.5" fill="#24292F">async vs def 路由并发模型</text>
+<rect x="413" y="1931.0" rx="8" width="62" height="28" fill="#F6ECFA" stroke="#9C36B5" stroke-width="1.4"/>
+<text x="424" y="1949.9" font-size="13.5" font-weight="600" fill="#9C36B5">数据层</text>
+<rect x="505" y="1871.0" rx="6" width="170" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="515" y="1887.5" font-size="12.5" fill="#24292F">SQLAlchemy 2.0 async</text>
+<rect x="505" y="1902.0" rx="6" width="195" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="515" y="1918.5" font-size="12.5" fill="#24292F">懒加载陷阱 · selectinload</text>
+<rect x="505" y="1933.0" rx="6" width="105" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="515" y="1949.5" font-size="12.5" fill="#24292F">Alembic 迁移</text>
+<rect x="505" y="1964.0" rx="6" width="132" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="515" y="1980.5" font-size="12.5" fill="#24292F">连接池 · asyncpg</text>
+<rect x="505" y="1995.0" rx="6" width="175" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="515" y="2011.5" font-size="12.5" fill="#24292F">JSONB · Redis 缓存与锁</text>
+<rect x="413" y="2048.5" rx="8" width="90" height="28" fill="#F6ECFA" stroke="#9C36B5" stroke-width="1.4"/>
+<text x="424" y="2067.4" font-size="13.5" font-weight="600" fill="#9C36B5">会话与认证</text>
+<rect x="533" y="2035.0" rx="6" width="132" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="543" y="2051.5" font-size="12.5" fill="#24292F">对话历史存储与截断</text>
+<rect x="533" y="2066.0" rx="6" width="182" height="24" fill="#FFFFFF" stroke="#9C36B5" stroke-width="1" stroke-opacity="0.45"/>
+<text x="543" y="2082.5" font-size="12.5" fill="#24292F">JWT · OAuth2 · 速率限制</text>
+<rect x="248" y="2337.5" rx="10" width="163" height="38" fill="#E03131"/>
+<text x="263" y="2362.1" font-size="15.5" font-weight="600" fill="#FFF">Agent 与工具调用</text>
+<rect x="447" y="2154.0" rx="8" width="119" height="28" fill="#FCE9E9" stroke="#E03131" stroke-width="1.4"/>
+<text x="458" y="2172.9" font-size="13.5" font-weight="600" fill="#E03131">Tool Calling</text>
+<rect x="596" y="2125.0" rx="6" width="215" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="606" y="2141.5" font-size="12.5" fill="#24292F">JSON Schema · 描述即 Prompt</text>
+<rect x="596" y="2156.0" rx="6" width="172" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="606" y="2172.5" font-size="12.5" fill="#24292F">裸 tool_calls 消息循环</text>
+<rect x="596" y="2187.0" rx="6" width="142" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="606" y="2203.5" font-size="12.5" fill="#24292F">并行调用 · 结果裁剪</text>
+<rect x="447" y="2256.0" rx="8" width="81" height="28" fill="#FCE9E9" stroke="#E03131" stroke-width="1.4"/>
+<text x="458" y="2274.9" font-size="13.5" font-weight="600" fill="#E03131">MCP 协议</text>
+<rect x="558" y="2227.0" rx="6" width="185" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="568" y="2243.5" font-size="12.5" fill="#24292F">Host / Client / Server</text>
+<rect x="558" y="2258.0" rx="6" width="222" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="568" y="2274.5" font-size="12.5" fill="#24292F">Tools · Resources · Prompts</text>
+<rect x="558" y="2289.0" rx="6" width="210" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="568" y="2305.5" font-size="12.5" fill="#24292F">FastMCP · Inspector · 安全</text>
+<rect x="447" y="2342.5" rx="8" width="95" height="28" fill="#FCE9E9" stroke="#E03131" stroke-width="1.4"/>
+<text x="458" y="2361.4" font-size="13.5" font-weight="600" fill="#E03131">LangChain</text>
+<rect x="572" y="2329.0" rx="6" width="155" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="582" y="2345.5" font-size="12.5" fill="#24292F">LCEL 管道 · 流式事件</text>
+<rect x="572" y="2360.0" rx="6" width="132" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="582" y="2376.5" font-size="12.5" fill="#24292F">何时不用框架的判断</text>
+<rect x="447" y="2444.5" rx="8" width="98" height="28" fill="#FCE9E9" stroke="#E03131" stroke-width="1.4"/>
+<text x="458" y="2463.4" font-size="13.5" font-weight="600" fill="#E03131">Agent 架构</text>
+<rect x="575" y="2400.0" rx="6" width="175" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="585" y="2416.5" font-size="12.5" fill="#24292F">ReAct 循环 · 死循环防护</text>
+<rect x="575" y="2431.0" rx="6" width="230" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="585" y="2447.5" font-size="12.5" fill="#24292F">LangGraph 状态机 · checkpoint</text>
+<rect x="575" y="2462.0" rx="6" width="240" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="585" y="2478.5" font-size="12.5" fill="#24292F">多 Agent：supervisor · handoff</text>
+<rect x="575" y="2493.0" rx="6" width="190" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="585" y="2509.5" font-size="12.5" fill="#24292F">动态工具加载（token 感知）</text>
+<rect x="447" y="2531.0" rx="8" width="76" height="28" fill="#FCE9E9" stroke="#E03131" stroke-width="1.4"/>
+<text x="458" y="2549.9" font-size="13.5" font-weight="600" fill="#E03131">模型路由</text>
+<rect x="553" y="2533.0" rx="6" width="205" height="24" fill="#FFFFFF" stroke="#E03131" stroke-width="1" stroke-opacity="0.45"/>
+<text x="563" y="2549.5" font-size="12.5" fill="#24292F">多 Provider 适配 · 故障转移</text>
+<rect x="248" y="2730.2" rx="10" width="145" height="38" fill="#0C8599"/>
+<text x="263" y="2754.8" font-size="15.5" font-weight="600" fill="#FFF">RAG 与向量检索</text>
+<rect x="429" y="2605.5" rx="8" width="95" height="28" fill="#E6F4F6" stroke="#0C8599" stroke-width="1.4"/>
+<text x="440" y="2624.4" font-size="13.5" font-weight="600" fill="#0C8599">Embedding</text>
+<rect x="554" y="2592.0" rx="6" width="142" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="564" y="2608.5" font-size="12.5" fill="#24292F">相似度度量 · 归一化</text>
+<rect x="554" y="2623.0" rx="6" width="142" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="564" y="2639.5" font-size="12.5" fill="#24292F">模型选型 · 编码缓存</text>
+<rect x="429" y="2676.5" rx="8" width="76" height="28" fill="#E6F4F6" stroke="#0C8599" stroke-width="1.4"/>
+<text x="440" y="2695.4" font-size="13.5" font-weight="600" fill="#0C8599">向量存储</text>
+<rect x="535" y="2663.0" rx="6" width="205" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="545" y="2679.5" font-size="12.5" fill="#24292F">pgvector：HNSW vs IVFFlat</text>
+<rect x="535" y="2694.0" rx="6" width="185" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="545" y="2710.5" font-size="12.5" fill="#24292F">同库过滤：向量 + SQL 条件</text>
+<rect x="429" y="2778.5" rx="8" width="76" height="28" fill="#E6F4F6" stroke="#0C8599" stroke-width="1.4"/>
+<text x="440" y="2797.4" font-size="13.5" font-weight="600" fill="#0C8599">检索链路</text>
+<rect x="535" y="2734.0" rx="6" width="178" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="545" y="2750.5" font-size="12.5" fill="#24292F">分块策略 · overlap 权衡</text>
+<rect x="535" y="2765.0" rx="6" width="190" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="545" y="2781.5" font-size="12.5" fill="#24292F">混合检索：BM25 + RRF 融合</text>
+<rect x="535" y="2796.0" rx="6" width="182" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="545" y="2812.5" font-size="12.5" fill="#24292F">Rerank 精排 · HyDE 改写</text>
+<rect x="535" y="2827.0" rx="6" width="142" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="545" y="2843.5" font-size="12.5" fill="#24292F">引用溯源 · 幻觉抑制</text>
+<rect x="429" y="2865.0" rx="8" width="76" height="28" fill="#E6F4F6" stroke="#0C8599" stroke-width="1.4"/>
+<text x="440" y="2883.9" font-size="13.5" font-weight="600" fill="#0C8599">质量评估</text>
+<rect x="535" y="2867.0" rx="6" width="200" height="24" fill="#FFFFFF" stroke="#0C8599" stroke-width="1" stroke-opacity="0.45"/>
+<text x="545" y="2883.5" font-size="12.5" fill="#24292F">recall@k · 忠实度 · RAGAS</text>
+<rect x="248" y="3072.0" rx="10" width="120" height="38" fill="#D9480F"/>
+<text x="263" y="3096.6" font-size="15.5" font-weight="600" fill="#FFF">AI 质量评估</text>
+<rect x="404" y="2955.0" rx="8" width="119" height="28" fill="#FBEEE4" stroke="#D9480F" stroke-width="1.4"/>
+<text x="415" y="2973.9" font-size="13.5" font-weight="600" fill="#D9480F">LLM-as-Judge</text>
+<rect x="553" y="2926.0" rx="6" width="138" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="563" y="2942.5" font-size="12.5" fill="#24292F">rubric · 锚定示例</text>
+<rect x="553" y="2957.0" rx="6" width="165" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="563" y="2973.5" font-size="12.5" fill="#24292F">位置 / 自恋 / 长度偏差</text>
+<rect x="553" y="2988.0" rx="6" width="182" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="563" y="3004.5" font-size="12.5" fill="#24292F">多 Judge 投票 · 人工对齐</text>
+<rect x="404" y="3057.0" rx="8" width="76" height="28" fill="#FBEEE4" stroke="#D9480F" stroke-width="1.4"/>
+<text x="415" y="3075.9" font-size="13.5" font-weight="600" fill="#D9480F">评估维度</text>
+<rect x="510" y="3028.0" rx="6" width="130" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="520" y="3044.5" font-size="12.5" fill="#24292F">事实性 · 幻觉核查</text>
+<rect x="510" y="3059.0" rx="6" width="142" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="520" y="3075.5" font-size="12.5" fill="#24292F">合规红队 · 指令遵循</text>
+<rect x="510" y="3090.0" rx="6" width="168" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="520" y="3106.5" font-size="12.5" fill="#24292F">规则兜底：关键词 · 正则</text>
+<rect x="404" y="3128.0" rx="8" width="119" height="28" fill="#FBEEE4" stroke="#D9480F" stroke-width="1.4"/>
+<text x="415" y="3146.9" font-size="13.5" font-weight="600" fill="#D9480F">三 Agent 循环</text>
+<rect x="553" y="3130.0" rx="6" width="202" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="563" y="3146.5" font-size="12.5" fill="#24292F">虚拟用户 → 被测系统 → 评估器</text>
+<rect x="404" y="3199.0" rx="8" width="76" height="28" fill="#FBEEE4" stroke="#D9480F" stroke-width="1.4"/>
+<text x="415" y="3217.9" font-size="13.5" font-weight="600" fill="#D9480F">评估工程</text>
+<rect x="510" y="3170.0" rx="6" width="180" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="520" y="3186.5" font-size="12.5" fill="#24292F">golden set · 回归集分离</text>
+<rect x="510" y="3201.0" rx="6" width="142" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="520" y="3217.5" font-size="12.5" fill="#24292F">并发限流 · 断点续跑</text>
+<rect x="510" y="3232.0" rx="6" width="152" height="24" fill="#FFFFFF" stroke="#D9480F" stroke-width="1" stroke-opacity="0.45"/>
+<text x="520" y="3248.5" font-size="12.5" fill="#24292F">评估进 CI · 反馈回流</text>
+<rect x="248" y="3429.2" rx="10" width="92" height="38" fill="#5F3DC4"/>
+<text x="263" y="3453.8" font-size="15.5" font-weight="600" fill="#FFF">工程配套</text>
+<rect x="376" y="3304.5" rx="8" width="90" height="28" fill="#EFEBFA" stroke="#5F3DC4" stroke-width="1.4"/>
+<text x="387" y="3323.4" font-size="13.5" font-weight="600" fill="#5F3DC4">配置与密钥</text>
+<rect x="496" y="3291.0" rx="6" width="222" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="506" y="3307.5" font-size="12.5" fill="#24292F">APP_ENV · pydantic-settings</text>
+<rect x="496" y="3322.0" rx="6" width="142" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="506" y="3338.5" font-size="12.5" fill="#24292F">密钥不进仓库 · 轮换</text>
+<rect x="376" y="3391.0" rx="8" width="76" height="28" fill="#EFEBFA" stroke="#5F3DC4" stroke-width="1.4"/>
+<text x="387" y="3409.9" font-size="13.5" font-weight="600" fill="#5F3DC4">可观测性</text>
+<rect x="482" y="3362.0" rx="6" width="165" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="492" y="3378.5" font-size="12.5" fill="#24292F">结构化日志 · trace_id</text>
+<rect x="482" y="3393.0" rx="6" width="182" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="492" y="3409.5" font-size="12.5" fill="#24292F">LLM 调用观测 · Langfuse</text>
+<rect x="482" y="3424.0" rx="6" width="148" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="492" y="3440.5" font-size="12.5" fill="#24292F">p95 延迟 · 成本告警</text>
+<rect x="376" y="3477.5" rx="8" width="49" height="28" fill="#EFEBFA" stroke="#5F3DC4" stroke-width="1.4"/>
+<text x="387" y="3496.4" font-size="13.5" font-weight="600" fill="#5F3DC4">部署</text>
+<rect x="455" y="3464.0" rx="6" width="200" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="465" y="3480.5" font-size="12.5" fill="#24292F">Docker 多阶段 · uv frozen</text>
+<rect x="455" y="3495.0" rx="6" width="190" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="465" y="3511.5" font-size="12.5" fill="#24292F">compose 全家桶 · 健康检查</text>
+<rect x="376" y="3564.0" rx="8" width="100" height="28" fill="#EFEBFA" stroke="#5F3DC4" stroke-width="1.4"/>
+<text x="387" y="3582.9" font-size="13.5" font-weight="600" fill="#5F3DC4">CI 与稳定性</text>
+<rect x="506" y="3535.0" rx="6" width="215" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="516" y="3551.5" font-size="12.5" fill="#24292F">ruff + mypy + pytest 流水线</text>
+<rect x="506" y="3566.0" rx="6" width="132" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="516" y="3582.5" font-size="12.5" fill="#24292F">Prompt 回归进 CI</text>
+<rect x="506" y="3597.0" rx="6" width="188" height="24" fill="#FFFFFF" stroke="#5F3DC4" stroke-width="1" stroke-opacity="0.45"/>
+<text x="516" y="3613.5" font-size="12.5" fill="#24292F">限流 · 熔断 · 降级 · 队列</text>
+</svg>
