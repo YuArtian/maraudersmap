@@ -457,6 +457,7 @@ flowchart TD
 
 ## 相关文章
 
+- [vault-qa 学习日志](https://github.com/YuArtian/vault-qa/tree/main/docs) - 第 0 节路线的实战记录（维护在项目仓库里，每阶段一篇）
 - [[Python 学习路线]] - 「Python 语言」板块的完整展开（6 阶段 + 打卡清单）
 - [[Python 教程总览]] - Python 全部笔记索引
 - [[0.02 环境变量与配置]] - 多环境配置管理
