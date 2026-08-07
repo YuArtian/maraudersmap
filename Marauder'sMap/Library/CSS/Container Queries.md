@@ -290,7 +290,7 @@ container-type: size;
 ## 相关概念
 
 - [[CSS/Media Queries]] - 基于视口的响应式查询
-- [[CSS/Flexbox]] - 弹性盒子布局
+- [[1.04 flex 与 grid 布局]] - 弹性盒子布局
 - [[CSS/CSS Containment]] - CSS 包含规范
 
 ## 总结
