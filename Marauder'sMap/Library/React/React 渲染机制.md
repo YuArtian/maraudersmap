@@ -240,7 +240,7 @@ useEffect(() => {
 
 所以框架必须等子全部 mount 完，父才能报 mount。
 
-详见 [[React Fiber]] 中关于 Fiber 节点遍历顺序的实现细节。
+详见 [[1.02 Fiber 架构]] 中关于 Fiber 节点遍历顺序的实现细节。
 
 ---
 
@@ -286,7 +286,7 @@ useEffect(() => {
 
 ## 相关文章
 
-- [[React Fiber]] — Fiber 节点结构、遍历算法、可中断渲染的实现
+- [[1.02 Fiber 架构]] — Fiber 节点结构、遍历算法、可中断渲染的实现
 - [[React vs Vue 渲染对比]] — 反应式模型与重渲染粒度的差异
 - [[App Router 状态管理]] — Context Provider 嵌套和单向数据流的实战应用
 - [[JS执行模型]] — JS 调用栈、事件循环（理解父子函数先后关系的基础）

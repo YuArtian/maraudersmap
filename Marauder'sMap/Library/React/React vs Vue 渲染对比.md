@@ -325,7 +325,7 @@ Solid 长得像 React（JSX + hooks），但底层完全不同：
 ## 相关文章
 
 - [[React 渲染机制]] — JSX 是数据、render/commit 双阶段、单向数据流
-- [[React Fiber]] — React 的可中断渲染实现
+- [[1.02 Fiber 架构]] — React 的可中断渲染实现
 - [[ReactCompiler]] — React 19 的编译期优化（补 Vue 的课）
 
 ---
