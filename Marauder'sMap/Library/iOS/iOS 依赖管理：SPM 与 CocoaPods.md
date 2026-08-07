@@ -159,7 +159,7 @@ Flutter 官方近年一直在推进对 SPM 的支持，长期看这块会慢慢�
 
 - [[Xcode SPM 依赖解析失败排查]] - SPM 依赖没下全时的诊断方法
 - [[语义版本控制 SemVer]] - `upToNextMajorVersion` 等版本约束的语义
-- [[lock 文件]] - `Package.resolved` / `Podfile.lock` 的同类概念
+- [[1.02 package.json 与依赖管理]] - `Package.resolved` / `Podfile.lock` 的同类概念
 - [[npm i & npm ci]] - 「按需补齐」与「清空重装」的对照
 
 ---

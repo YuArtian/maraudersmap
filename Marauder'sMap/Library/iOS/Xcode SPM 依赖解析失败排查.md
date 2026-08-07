@@ -182,7 +182,7 @@ DerivedData/<项目>/SourcePackages/
 ## 相关文章
 
 - [[iOS 依赖管理：SPM 与 CocoaPods]] - 两套依赖管理器的机制对比
-- [[lock 文件]] - `Package.resolved` 的同类概念
+- [[1.02 package.json 与依赖管理]] - `Package.resolved` 的同类概念
 - [[语义版本控制 SemVer]] - 版本冲突时要读懂的约束语义
 
 ---
