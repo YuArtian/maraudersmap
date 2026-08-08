@@ -529,5 +529,5 @@ DOM 操作
 ## 相关文档
 
 - [[JS执行模型]] - JavaScript 执行模型的详细说明
-- [[undefined == null]] - JavaScript 类型系统
+- [[1.01 数据类型与类型判断]] - JavaScript 类型系统
 - [[JS执行模型#事件循环与异步执行]] - 异步执行机制
