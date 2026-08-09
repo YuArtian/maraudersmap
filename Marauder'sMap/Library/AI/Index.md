@@ -3,6 +3,7 @@
 # AI 知识地图
 
 > Library/AI 总索引：学习顺序、知识树、每篇的定位与前置关系
+> 全库入口见 [[Marauder'sMap/Library/Index|Library 总索引]]
 
 ## 推荐学习顺序（一条线走完）
 
