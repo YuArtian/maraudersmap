@@ -22,8 +22,10 @@ flowchart TD
   H --> J["2.06 Webpack、Vite 与 Rollup 对比选型"]
   I --> J
   E --> K["2.07 Babel 与编译体系"]
-  L["3.01 Git 核心操作与撤销"] --> M["3.02 merge、rebase 与分支工作流"]
+  Q["3.05 Git 常用命令速查"] --> L["3.01 Git 核心操作与撤销"]
+  L --> M["3.02 merge、rebase 与分支工作流"]
   M --> N["3.03 Git 钩子与工程规范"]
+  L --> P["3.04 Git 远程仓库管理"]
 ```
 
 ---
@@ -58,6 +60,8 @@ flowchart TD
 | [[3.01 Git 核心操作与撤销]] | 三区流转；未推的用 reset、已推的用 revert |
 | [[3.02 merge、rebase 与分支工作流]] | rebase 只用在自己未共享的提交上；工作流按发布节奏选 |
 | [[3.03 Git 钩子与工程规范]] | husky 用 `core.hooksPath` 让钩子随仓库分发；lint-staged + commitlint |
+| [[3.04 Git 远程仓库管理]] | remote 是「别名 → URL」的本地配置；`git remote -v` 查、`set-url` 改 |
+| [[3.05 Git 常用命令速查]] | 按「我想干什么」组织的命令表 + 高频配方 + 危险命令清单 |
 
 ---
 
@@ -79,6 +83,8 @@ flowchart TD
 | 工作区/暂存区/仓库、reset 三模式、revert、cherry-pick、submodule | [[3.01 Git 核心操作与撤销]] |
 | merge commit、rebase 重放、GitHub Flow、GitFlow | [[3.02 merge、rebase 与分支工作流]] |
 | pre-commit、commit-msg、husky、lint-staged、commitlint | [[3.03 Git 钩子与工程规范]] |
+| remote 别名、`git remote -v`、set-url、SSH vs HTTPS、远程跟踪分支、upstream | [[3.04 Git 远程仓库管理]] |
+| diff 三种比较、log 组合、switch/restore、amend、bisect、blame、tag、gitignore 失效 | [[3.05 Git 常用命令速查]] |
 
 ---
 
