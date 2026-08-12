@@ -158,7 +158,7 @@
 | 损失函数/代价函数/目标函数、交叉熵、极大似然、梯度下降、学习率、超参数、过拟合、i.i.d. | [[机器学习基础概念]] |
 | 神经元、权重、偏置、激活函数、ReLU、Sigmoid、隐藏层、层 | [[神经网络]] |
 | 自回归、temperature、自监督、base model、指令微调 SFT、RLHF/DPO、幻觉、上下文窗口 | [[大语言模型]] |
-| 数据形状、Q/K/V、W_q/W_k/W_v/W_o、logits、采样策略(greedy/top-k/top-p)、因果掩码、KV 缓存、prefill/decode、O(n²)、226 个矩阵 | [[AI/Map\|Map]] |
+| 数据形状、Q/K/V、W_q/W_k/W_v/W_o、logits、采样策略(greedy/top-k/top-p)、因果掩码、KV 缓存、prefill/decode、O(n²)、226 个矩阵、张量、safetensors 格式（pickle 风险、mmap） | [[AI/Map\|Map]] |
 | RNN、隐状态、CTC、梯度消失 | [[序列模型]] |
 | 注意力（机制定义：权重是激活值）、自注意力、交叉注意力、softmax 与饱和、√dₖ、因果掩码、多头与 W_o、位置编码/RoPE、残差连接、层归一化/RMSNorm、编码器-解码器、BERT/GPT/T5、O(n²) 的由来 | [[Transformer]] |
 | token、分词器、词表、字节兜底、embedding 表、LLaMA | [[Token 与 Embedding 表]] |
