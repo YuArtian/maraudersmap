@@ -102,7 +102,8 @@
                 │                        因果掩码、多头（不额外花钱、子空间投影、
                 │                        分化的驱动力、冗余折扣、GQA）与 W_o、
                 │                        位置编码/RoPE、
-                │                        前馈/残差/层归一化、并行才是胜因与 O(n²)、
+                │                        层 vs 子层、前馈（命名由来、FFN=MLP）/
+                │                        残差/层归一化、并行才是胜因与 O(n²)、
                 │                        自注意力 vs 交叉注意力、BERT/GPT/T5 三大流派
                 ├── 输入:  Token 与 Embedding 表  分词器/词表/字节兜底、embedding 表、
                 │          ↑ 前置: 1.05 字符编码    词级 vs 句级向量、LLaMA
@@ -167,7 +168,7 @@
 | 自回归、temperature、自监督、base model、指令微调 SFT、RLHF/DPO、幻觉、上下文窗口 | [[大语言模型]] |
 | 数据形状、Q/K/V、W_q/W_k/W_v/W_o、logits、采样策略(greedy/top-k/top-p)、因果掩码、KV 缓存、prefill/decode、O(n²)、226 个矩阵、张量、safetensors 格式（pickle 风险、mmap） | [[AI/Map\|Map]] |
 | RNN、隐状态、CTC、梯度消失 | [[序列模型]] |
-| 注意力（机制定义：权重是激活值）、自注意力、交叉注意力、softmax 与饱和、√dₖ、因果掩码、多头与 W_o、子空间投影与头的分化、induction head、注意力头冗余与剪枝、GQA/MQA 与 num_key_value_heads、位置编码/RoPE、残差连接、层归一化/RMSNorm、编码器-解码器、BERT/GPT/T5、O(n²) 的由来 | [[Transformer]] |
+| 注意力（机制定义：权重是激活值）、自注意力、交叉注意力、softmax 与饱和、√dₖ、因果掩码、多头与 W_o、子空间投影与头的分化、induction head、注意力头冗余与剪枝、GQA/MQA 与 num_key_value_heads、位置编码/RoPE、层 vs 子层、前馈子层（"前馈"的命名由来、FFN=MLP=position-wise FFN、SwiGLU）、残差连接、层归一化/RMSNorm、编码器-解码器、BERT/GPT/T5、O(n²) 的由来 | [[Transformer]] |
 | token、分词器、词表、字节兜底、embedding 表、LLaMA | [[Token 与 Embedding 表]] |
 | 猜下一个词、反向传播、梯度下降、参数(7B/70B) | [[大模型如何训练]] |
 | 全量微调、PEFT、LoRA、ΔW=BA、rank/秩、缩放因子 α、adapter、QLoRA、冻结 freeze、优化器状态、对话模板 chat template、epoch、灾难性遗忘、DPO、微调 vs RAG 的分工 | [[微调与 LoRA]] |
