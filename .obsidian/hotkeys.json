@@ -3,8 +3,8 @@
     {
       "modifiers": [
         "Alt",
-        "Ctrl",
-        "Mod"
+        "Mod",
+        "Meta"
       ],
       "key": "ArrowUp"
     }
