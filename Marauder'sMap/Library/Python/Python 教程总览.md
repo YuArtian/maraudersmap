@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-**本目录是基于廖雪峰《Python 教程》（2025-06 版）+ 个人实践整理的知识库。** 按主题分组：
+**本目录是基于廖雪峰《Python 教程》（2025-06 版）+《Python 语言核心精讲》（Agent 向课程）+ 个人实践整理的知识库。** 按主题分组：
 
 - **基础与工具链** — 解释器、环境、打包
 - **语言核心** — 数据类型、字符串、流程控制、变量作用域
@@ -28,9 +28,11 @@
 [基础]
 解释型语言与代码发布
     ↓
-CPython 解释器原理
+CPython 解释器原理 ── Python 发行版与解释器实现
     ↓
 环境管理 ── uv ── 环境变量与配置
+    ↓
+编辑器与运行方式
     ↓
 打包与分发（wheel / 源码包）
     ↓
@@ -65,7 +67,9 @@ CPython 解释器原理
 |---|---|
 | [[0.03 解释型语言与代码发布]] | 编译 vs 解释、源码发布、WASM、代码保护 |
 | [[5.15 CPython 解释器原理]] | 执行流程、字节码、GIL、C 扩展 |
-| [[0.01 环境管理]] | Anaconda / Conda / pyenv / uv 三条路线、虚拟环境 |
+| [[0.06 Python 发行版与解释器实现]] | 实现 / 分支 / 构建变体 / 发行版四层分类、十几个发行版怎么选、free-threaded 构建 |
+| [[0.01 环境管理]] | Anaconda / Conda / pyenv / uv 三条路线、虚拟环境、pyenv 安装与镜像源 |
+| [[0.07 编辑器与运行方式]] | 四种运行入口、REPL、PyCharm vs VSCode、解释器选择、Black / Ruff、Code Runner 的坑 |
 | [[0.05 uv]] | 一个工具全包：解释器、环境、装包、锁文件；与 pyenv 的差别、作用域、边界 |
 | [[0.02 环境变量与配置]] | `.env` 文件、12-Factor 配置加载 |
 | [[0.04 打包与分发]] | wheel 与源码包、文件名五段标签、manylinux、tar.gz vs zip |
@@ -223,6 +227,7 @@ CPython 解释器原理
 
 ## 参考资料
 
+- [[Agent 版 Python 课程整理进度]] —— 第二素材源《Python 语言核心精讲》32 章的整理进度与章节映射
 - 廖雪峰 Python 教程 https://liaoxuefeng.com/books/python/
 - Python 官方文档 https://docs.python.org/3/
 - Python 数据模型 https://docs.python.org/3/reference/datamodel.html
