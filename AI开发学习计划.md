@@ -457,6 +457,7 @@ flowchart TD
 
 ## 相关文章
 
+- [[人工智能的分类]] - AI 全景与岗位分层：本大纲瞄准的是「应用开发」这一层，另两层（推理部署、模型研发）需要什么
 - [vault-qa 学习日志](https://github.com/YuArtian/vault-qa/tree/main/docs) - 第 0 节路线的实战记录（维护在项目仓库里，每阶段一篇）
 - [[Python 学习路线]] - 「Python 语言」板块的完整展开（6 阶段 + 打卡清单）
 - [[Python 教程总览]] - Python 全部笔记索引

@@ -14,7 +14,7 @@ flowchart TD
   C["语言与类型<br/>TypeScript · Python"]
   D["工程与协作<br/>工程化 · 工程实践 · 微前端 · 性能优化 · 包管理"]
   E["服务端与基础设施<br/>Node · Database · Infrastructure"]
-  F["AI 与数据<br/>AI · SQL"]
+  F["AI 与数据<br/>AI · 数学地基 · SQL"]
   G["移动端<br/>iOS · Flutter"]
 
   A --> B
@@ -77,7 +77,8 @@ flowchart TD
 
 | 主题 | 索引页 | 内容 |
 |---|---|---|
-| AI | [[Marauder'sMap/Library/AI/Index\|AI 知识地图]] | 数学地基 → 机器学习 → 神经网络 → Transformer → RAG |
+| AI | [[Marauder'sMap/Library/AI/Index\|AI 知识地图]] | AI 版图与分类 → 机器学习 → 神经网络 → 训练过程 → Transformer → RAG |
+| 数学地基 | [[Marauder'sMap/Library/数学地基/Index\|数学地基索引]] | 读 AI 笔记用得到的那部分数学：向量、线性代数、矩阵、导数与梯度 |
 | SQL | [[排行榜查询模式]] | 单篇：排行榜会反复用到的 5 个 SQL 模式 |
 
 ### 移动端
