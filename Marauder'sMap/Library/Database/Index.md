@@ -57,7 +57,7 @@ flowchart TD
 ## 跨目录关联
 
 - SQL 查询模式（排行榜、Top N、upsert、窗口函数）→ [[排行榜查询模式]]
-- 向量与相似度的数学基础 → [[向量与点积]]
+- 向量与相似度的数学基础 → [[向量与数量积]]
 - 检索增强生成的完整链路 → [[RAG]]、[[Marauder'sMap/Library/AI/Index|AI 知识地图]]
 - Node 侧的连接与部署 → [[Marauder'sMap/Library/Node/Index|Node.js 知识地图]]
 - Python 侧的数据库访问 → [[4.05 数据库访问]]、[[4.04 资源池与连接池]]
